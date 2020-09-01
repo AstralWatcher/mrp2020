@@ -14,7 +14,7 @@ def load_file(data_selected):
 def process(data_selected, name='', filepath='../datasets/'):
     """
 
-    :param data_selected: 'reldi, hr500k, test_ner"
+    :param data_selected: 'reldi', 'hr500k', 'test_ner'
     :param filepath: where it will be saved
     :param name: name which it will be saved
     :return: processed in csv file
